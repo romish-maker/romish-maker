@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Romish
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
+![](https://komarev.com/ghpvc/?username=romish-maker)
 
 ## I'm a FrontEnd Developer
 - 💪 I like to write code
@@ -35,7 +35,7 @@
   
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#1](https://github.com/kartevonmorgen/kartevonmorgen/issues/363) in [kartevonmorgen/kartevonmorgen/issues/363](https://github.com/kartevonmorgen/kartevonmorgen)
-2. ❗️ Closed issue [#2](https://github.com/kartevonmorgen/kartevonmorgen/issues/760) in [kartevonmorgen/kartevonmorgen/issues/760] (https://github.com/kartevonmorgen/kartevonmorgen)
+1. ❗️ Closed issue [#2](https://github.com/kartevonmorgen/kartevonmorgen/issues/760) in [kartevonmorgen/kartevonmorgen/issues/760](https://github.com/kartevonmorgen/kartevonmorgen)
 <!--END_SECTION:activity-->
 
 </details>
