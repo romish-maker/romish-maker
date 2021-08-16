@@ -2,11 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=VladKalachev)
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a FrontEnd Developer
 - 💪 I like to write code
 - 🎉 I love to paint and play the guitar
 - 🥅 I am constantly learning new things
-- 🤹🏽 I like to shoot videos for youtube 
+- 🤹🏽 I like to solve problem in codewars / learn english
 
 ### Connect with me:
 
@@ -23,7 +23,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/web-storm/web-storm.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
@@ -35,8 +34,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/kartevonmorgen/kartevonmorgen/issues/363) in [https://github.com/kartevonmorgen/kartevonmorgen/issues](https://github.com/kartevonmorgen/kartevonmorgen/issues/363)
-2. ❗️ Closed issue [#2](https://github.com/kartevonmorgen/kartevonmorgen/issues/760) in [https://github.com/kartevonmorgen/kartevonmorgen/issues](https://github.com/kartevonmorgen/kartevonmorgen/issues)
+1. ❗️ Closed issue [#1](https://github.com/kartevonmorgen/kartevonmorgen/issues/363) in [kartevonmorgen/kartevonmorgen/issues](https://github.com/kartevonmorgen/kartevonmorgen)
+2. ❗️ Closed issue [#2](https://github.com/kartevonmorgen/kartevonmorgen/issues/760) in [kartevonmorgen/kartevonmorgen/issues (https://github.com/kartevonmorgen/kartevonmorgen/issues)
 <!--END_SECTION:activity-->
 
 </details>
