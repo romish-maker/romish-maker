@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Romish
 
-![](https://komarev.com/ghpvc/?username=romish-maker)
+![](https://komarev.com/ghpvc/?username=VladKalachev)
 
 ## I'm a FrontEnd Developer, and Teacher
 - 💪 I like to write code
@@ -23,6 +23,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/web-storm/web-storm.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
@@ -30,6 +31,15 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. ❗️ Closed issue [#1](https://github.com/kartevonmorgen/kartevonmorgen/issues/363) in [https://github.com/kartevonmorgen/kartevonmorgen/issues](https://github.com/kartevonmorgen/kartevonmorgen/issues/363)
+2. ❗️ Closed issue [#2](https://github.com/kartevonmorgen/kartevonmorgen/issues/760) in [https://github.com/kartevonmorgen/kartevonmorgen/issues](https://github.com/kartevonmorgen/kartevonmorgen/issues)
+<!--END_SECTION:activity-->
+
+</details>
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romish-maker&langs_count=8&layout=compact" />
@@ -39,5 +49,5 @@
 
 [website]: https://webtricks-master.ru/
 [linkedin]: https://www.linkedin.com/in/romish-kuvatov-aa6b37215/
-[instagram]: https://www.instagram.com/corvaxv/
-[vk]: https://vk.com/vladislavkalachov
+[instagram]: https://www.instagram.com/romish_kuvatov/?hl=ru
+[vk]: https://vk.com/id551187914
