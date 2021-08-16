@@ -29,8 +29,6 @@
 <br />
 
 ---
-[website]: https://codeSTACKr.com
-[linkedin]: https://www.linkedin.com/in/romish-kuvatov-aa6b37215/
-[codewars]: https://www.codewars.com/users/romish
+
 
 
