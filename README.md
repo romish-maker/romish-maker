@@ -46,7 +46,7 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=romish-maker&show_icons=true" />
 </details>
 
-[website]: https://webtricks-master.ru/
+[website]: https://google.com
 [linkedin]: https://www.linkedin.com/in/romish-kuvatov-aa6b37215/
 [instagram]: https://www.instagram.com/romish_kuvatov/?hl=ru
 [vk]: https://vk.com/id551187914
