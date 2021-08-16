@@ -34,8 +34,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/kartevonmorgen/kartevonmorgen/issues/363) in [kartevonmorgen/kartevonmorgen/issues/363](https://github.com/kartevonmorgen/kartevonmorgen)
-1. ❗️ Closed issue [#2](https://github.com/kartevonmorgen/kartevonmorgen/issues/760) in [kartevonmorgen/kartevonmorgen/issues/760](https://github.com/kartevonmorgen/kartevonmorgen)
+1. ❗️ Closed issue [#1](https://github.com/kartevonmorgen/kartevonmorgen/issues/363) in [kartevonmorgen/kartevonmorgen/issues/363](https://github.com/kartevonmorgen/kartevonmorgen/issues/363)
+1. ❗️ Closed issue [#2](https://github.com/kartevonmorgen/kartevonmorgen/issues/760) in [kartevonmorgen/kartevonmorgen/issues/760](https://github.com/kartevonmorgen/kartevonmorgen/issues/760)
 <!--END_SECTION:activity-->
 
 </details>
