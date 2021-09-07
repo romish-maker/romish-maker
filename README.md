@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Romish [website]
+### Hi there 👋, I'm Romish [website] (upd: in process...)
 
 ![](https://komarev.com/ghpvc/?username=romish-maker)
 
@@ -50,7 +50,7 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=romish-maker&show_icons=true" />
 </details>
 
-[website]: https://google.com
+[website]: https://romish-maker.github.io/portfolio-romish/
 [linkedin]: https://www.linkedin.com/in/romish-kuvatov-aa6b37215/
 [instagram]: https://www.instagram.com/romish_kuvatov/?hl=ru
 [vk]: https://vk.com/id551187914
