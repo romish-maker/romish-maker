@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Romish [website] (upd: in process...)
-
-![](https://komarev.com/ghpvc/?username=romish-maker)
+### Hi there 👋, I'm Romish
 
 ## I'm a FrontEnd Developer
 - 💪 I like to write code
